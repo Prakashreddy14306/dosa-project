@@ -12,3 +12,10 @@
 * dosa batter 
 * masala
 * oil
+
+# egg-dosa
+
+* dosa batter
+* 1 egg
+* oil
+* karram

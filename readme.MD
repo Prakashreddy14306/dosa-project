@@ -16,7 +16,7 @@
 # egg-dosa
 
 * dosa batter
-* 1 egg
+* 2 egg
 * oil
 * kadapa-karram
  

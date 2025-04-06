@@ -19,4 +19,4 @@
 * 1 egg
 * oil
 * kadapa-karram
-* oil 
+ 

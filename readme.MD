@@ -23,3 +23,4 @@
 # special dosa
 
 * dosa batter
+* panner

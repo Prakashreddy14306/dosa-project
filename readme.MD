@@ -20,3 +20,7 @@
 * 2 egg
 * oil
 * kadapa-karram
+# special dosa
+* dosa batter
+* panner
+

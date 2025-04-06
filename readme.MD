@@ -13,14 +13,15 @@
 * masala
 * oil
 
+
 # egg dosa
 
 * dosa batter
 * 2 eggs 
 * oil
+* kadapa-karram
 
 # special dosa
-
 * dosa batter
 * panner 
 * oil

@@ -17,4 +17,12 @@
 
 * dosa batter
 * 2 eggs 
-* oil 
+* oil
+
+# special dosa
+
+* dosa batter
+* panner 
+* oil
+* masala
+

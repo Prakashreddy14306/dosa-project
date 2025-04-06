@@ -6,3 +6,8 @@
 # plain dosa
 
 * dosa batter
+
+# masala dosa
+
+* dosa batter 
+* masala
